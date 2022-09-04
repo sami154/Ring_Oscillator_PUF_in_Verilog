@@ -10,7 +10,7 @@ ro_puf- generated custom ro-puf ip core for puf_soc project.
 
 **top_module.v:** This is the top verilog file of the RO-PUF.
 
-**dispModule.v: ** This module muxes the 64 bit PUF response to the 4 bit output of the RO-PUF.
+**dispModule.v:** This module muxes the 64 bit PUF response to the 4 bit output of the RO-PUF.
 
 **Mux64to1.v:** This module selects the indexed RO to the output depending on the input.
 
