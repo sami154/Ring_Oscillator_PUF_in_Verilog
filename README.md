@@ -17,5 +17,6 @@ ro_puf- generated custom ro-puf ip core for puf_soc project.
 **ro_unit.v:** code for 5 stage ring oscillator.
 
 **NOTFUNC.v:** not gate.
+
 **NANDFUNC.v:** 2 input NAND. It replaces one of the not gate to facilitate enable pin.
 
